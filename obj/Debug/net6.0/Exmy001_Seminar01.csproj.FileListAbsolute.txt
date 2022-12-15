@@ -1,0 +1,15 @@
+C:\Users\Agent\Desktop\ExMy\Exmy001_Seminar01\bin\Debug\net6.0\Exmy001_Seminar01.exe
+C:\Users\Agent\Desktop\ExMy\Exmy001_Seminar01\bin\Debug\net6.0\Exmy001_Seminar01.deps.json
+C:\Users\Agent\Desktop\ExMy\Exmy001_Seminar01\bin\Debug\net6.0\Exmy001_Seminar01.runtimeconfig.json
+C:\Users\Agent\Desktop\ExMy\Exmy001_Seminar01\bin\Debug\net6.0\Exmy001_Seminar01.dll
+C:\Users\Agent\Desktop\ExMy\Exmy001_Seminar01\bin\Debug\net6.0\Exmy001_Seminar01.pdb
+C:\Users\Agent\Desktop\ExMy\Exmy001_Seminar01\obj\Debug\net6.0\Exmy001_Seminar01.csproj.AssemblyReference.cache
+C:\Users\Agent\Desktop\ExMy\Exmy001_Seminar01\obj\Debug\net6.0\Exmy001_Seminar01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Agent\Desktop\ExMy\Exmy001_Seminar01\obj\Debug\net6.0\Exmy001_Seminar01.AssemblyInfoInputs.cache
+C:\Users\Agent\Desktop\ExMy\Exmy001_Seminar01\obj\Debug\net6.0\Exmy001_Seminar01.AssemblyInfo.cs
+C:\Users\Agent\Desktop\ExMy\Exmy001_Seminar01\obj\Debug\net6.0\Exmy001_Seminar01.csproj.CoreCompileInputs.cache
+C:\Users\Agent\Desktop\ExMy\Exmy001_Seminar01\obj\Debug\net6.0\Exmy001_Seminar01.dll
+C:\Users\Agent\Desktop\ExMy\Exmy001_Seminar01\obj\Debug\net6.0\refint\Exmy001_Seminar01.dll
+C:\Users\Agent\Desktop\ExMy\Exmy001_Seminar01\obj\Debug\net6.0\Exmy001_Seminar01.pdb
+C:\Users\Agent\Desktop\ExMy\Exmy001_Seminar01\obj\Debug\net6.0\Exmy001_Seminar01.genruntimeconfig.cache
+C:\Users\Agent\Desktop\ExMy\Exmy001_Seminar01\obj\Debug\net6.0\ref\Exmy001_Seminar01.dll
