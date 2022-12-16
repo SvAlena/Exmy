@@ -1,0 +1,15 @@
+C:\Users\Agent\Desktop\ExMy\DZ_lesson2\obj\Debug\net6.0\DZ_lesson2.csproj.AssemblyReference.cache
+C:\Users\Agent\Desktop\ExMy\DZ_lesson2\obj\Debug\net6.0\DZ_lesson2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Agent\Desktop\ExMy\DZ_lesson2\obj\Debug\net6.0\DZ_lesson2.AssemblyInfoInputs.cache
+C:\Users\Agent\Desktop\ExMy\DZ_lesson2\obj\Debug\net6.0\DZ_lesson2.AssemblyInfo.cs
+C:\Users\Agent\Desktop\ExMy\DZ_lesson2\obj\Debug\net6.0\DZ_lesson2.csproj.CoreCompileInputs.cache
+C:\Users\Agent\Desktop\ExMy\DZ_lesson2\bin\Debug\net6.0\DZ_lesson2.exe
+C:\Users\Agent\Desktop\ExMy\DZ_lesson2\bin\Debug\net6.0\DZ_lesson2.deps.json
+C:\Users\Agent\Desktop\ExMy\DZ_lesson2\bin\Debug\net6.0\DZ_lesson2.runtimeconfig.json
+C:\Users\Agent\Desktop\ExMy\DZ_lesson2\bin\Debug\net6.0\DZ_lesson2.dll
+C:\Users\Agent\Desktop\ExMy\DZ_lesson2\bin\Debug\net6.0\DZ_lesson2.pdb
+C:\Users\Agent\Desktop\ExMy\DZ_lesson2\obj\Debug\net6.0\DZ_lesson2.dll
+C:\Users\Agent\Desktop\ExMy\DZ_lesson2\obj\Debug\net6.0\refint\DZ_lesson2.dll
+C:\Users\Agent\Desktop\ExMy\DZ_lesson2\obj\Debug\net6.0\DZ_lesson2.pdb
+C:\Users\Agent\Desktop\ExMy\DZ_lesson2\obj\Debug\net6.0\DZ_lesson2.genruntimeconfig.cache
+C:\Users\Agent\Desktop\ExMy\DZ_lesson2\obj\Debug\net6.0\ref\DZ_lesson2.dll
