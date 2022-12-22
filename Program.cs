@@ -5,20 +5,16 @@
 // 782 -> 8
 // 918 -> 1
 
-System.Console.WriteLine("Введите трехзначное число: ");
-int number = Convert.ToInt32(Console.ReadLine());
+// System.Console.WriteLine("Введите трехзначное число: ");
+// int number = Convert.ToInt32(Console.ReadLine());
 
-if (number > 99 && number < 10000)
-{
-    int secondNumber = (number / 10);
-    System.Console.WriteLine($"Вторая цифра введенного числа {number} - > {secondNumber}");
-}
-else
-    System.Console.WriteLine($"Введенное число {number} не трехзначное");
-
-
-
-
+// if (number > 99 && number < 1000)
+// {
+//     int secondNumber = (number / 10) % 10;
+//     System.Console.WriteLine($"Вторая цифра введенного числа {number} - > {secondNumber}");
+// }
+// else
+//     System.Console.WriteLine($"Введенное число {number} не трехзначное");
 
 
 
@@ -29,17 +25,23 @@ else
 // 32679 -> 6
 
 
+// System.Console.WriteLine("Введите любое число: ");
+// int number = Convert.ToInt32(Console.ReadLine());
+// int tmp = number;
 
+// while (tmp > 1000)
+// {
+//     tmp /= 10;
+// }
 
+// int result = tmp % 10;
 
-
-
-
-
-
-
-
-
+// if (number > 99)
+// {
+//     System.Console.WriteLine($"Третья цифра введенного числа - > {result}");
+// }
+//     else
+//     System.Console.WriteLine($"Введенное число {number} не трехзначное");
 
 
 
@@ -50,7 +52,7 @@ else
 // 7 -> да
 // 1 -> нет
 
-/*System.Console.WriteLine("Введите цифру, обозначающую день недели: ");
+System.Console.WriteLine("Введите цифру, обозначающую день недели: ");
 int number = int.Parse(Console.ReadLine());
 if (number <= 5)
 {
@@ -59,4 +61,4 @@ if (number <= 5)
 else if (number >= 6)
 {
     System.Console.WriteLine("Да, выходной");
-}*/
+}
